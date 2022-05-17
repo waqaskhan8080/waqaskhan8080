@@ -69,12 +69,12 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseosandwitch.com%2Fhow-to-create-a-blog-complete-guide%2F&psig=AOvVaw2LmcGrao0OmzcDC7OeXPJG&ust=1652848190742000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDXir3Z5fcCFQAAAAAdAAAAABAD" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=waqaskhan8080&&style=flat-square" align="center" />
+<img src="https://cyberatic.net/blog/" align="center" />
 </div>  
   
 
@@ -83,5 +83,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
